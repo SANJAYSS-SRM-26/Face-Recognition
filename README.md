@@ -11,3 +11,5 @@ Python
 OpenCV: For image and video processing.
 Dlib: For face detection and recognition.
 Deep Learning: For training a custom face recognition model.
+
+Use my files and use it in your IDE
